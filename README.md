@@ -30,23 +30,14 @@ I believe self-awareness is key to growth. I actively track and manage the follo
 ## 🔗 How to Reach Me
 
 <p align="center">
-  <a href="doreenirungu.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
-  </a>
-  <a href=" https://www.linkedin.com/in/doreen-irungu-84266638b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
-  </a>
-  <a href=" https://github.com/doreenirunguofficial">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
-  </a>
+<a href="mailto:doreenirungu.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/></a>
+<a href="https://www.linkedin.com/in/doreen-irungu-84266638b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/></a>
+<a href="https://github.com/doreenirunguofficial"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/></a>
 </p>
 
 <hr>
 
-<p align="center">
-  "The difference between good code and great code is the story it tells."
-  </p>
-
+<p align="center">"The difference between good code and great code is the story it tells."</p>
 
 
 
