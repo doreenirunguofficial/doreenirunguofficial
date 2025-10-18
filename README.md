@@ -1,4 +1,4 @@
-## Hi there 👋
+## HI:WAVE HAND: I'M Doreen Irungu
 
 <!--
 **doreenirunguofficial/doreenirunguofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
