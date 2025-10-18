@@ -1,4 +1,10 @@
-## HI:WAVE HAND: I'M Doreen Irungu
+## Hi, I'm Doreen Irungu👋
+
+A *Third-Year Software Engineering Student* at *Zetech University*, specializing in developing practical and scalable solutions
+I am actively cultivating a skillset geared toward high-impact development.
+My journey is rooted in a passion for full-stack development as evidenced by my proficiency acroos the stack.
+
+
 
 <!--
 **doreenirunguofficial/doreenirunguofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
