@@ -26,6 +26,14 @@ I believe self-awareness is key to growth. I actively track and manage the follo
 
 ...and so on for PHP, MySQL,  etc.
 
+## 🌐 How to Reach Me
+
+* 📧 *Email:* doreenirungu.official@gmail.com
+* 💼 *LinkedIn:* https://www.linkedin.com/in/doreen-irungu-84266638b/
+* 💻 *GitHub:* https://github.com/doreenirunguofficial
+
+
+
 <!--
 **doreenirunguofficial/doreenirunguofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
