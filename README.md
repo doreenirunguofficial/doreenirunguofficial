@@ -26,11 +26,27 @@ I believe self-awareness is key to growth. I actively track and manage the follo
 
 ...and so on for PHP, MySQL,  etc.
 
-## 🌐 How to Reach Me
+---
+## 🔗 How to Reach Me
 
-* 📧 *Email:* doreenirungu.official@gmail.com
-* 💼 *LinkedIn:* https://www.linkedin.com/in/doreen-irungu-84266638b/
-* 💻 *GitHub:* https://github.com/doreenirunguofficial
+<p align="center">
+  <a href="doreenirungu.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
+  </a>
+  <a href=" https://www.linkedin.com/in/doreen-irungu-84266638b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
+  </a>
+  <a href=" https://github.com/doreenirunguofficial">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"/>
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  "The difference between good code and great code is the story it tells."
+  </p>
+
 
 
 
